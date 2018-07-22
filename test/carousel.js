@@ -37,8 +37,9 @@ test('argument passed to constructor has property', () => {
 });
 
 test('6 ', () => {
-    const c = new testCarousel({
+    // const c = new testCarousel({
         
-    })
-
+    // })
+    console.log('bźdong');
+    
 });
